@@ -7,6 +7,3 @@ I enjoy developing for Android 🤖, and I think my favorite thing to talk about
 Thanks for checking out my profile.
 
 Let's hangout on [Twitter](https://twitter.com/T0bey_), [Instagram](https://www.instagram.com/misterr_tee/), or even [LinkedIn](https://www.linkedin.com/in/tobenna-ezike/).
-
-👨🏽 Pronouns: He/Him
-
