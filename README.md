@@ -1,6 +1,6 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
-My name is Ezike Tobenna. I'm an Android Engineer at Softcom, currently working on Eyowo - an app that provides reliable financial services to anyone with a phone number. 
+My name is Ezike Tobenna. I'm an Android Engineer at [Softcom](https://softcom.ng), currently working on [Eyowo](https://play.google.com/store/apps/details?id=com.eyowo.android) - an app that provides reliable financial services to anyone with a phone number. 
 
 I enjoy developing for Android 🤖, and I think my favorite thing to talk about is app architecture. 
 
