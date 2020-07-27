@@ -8,7 +8,7 @@ Thanks for checking out my profile.
 
 Let's hangout on [Twitter](https://twitter.com/T0bey_), [Instagram](https://www.instagram.com/misterr_tee/), or even [LinkedIn](https://www.linkedin.com/in/tobenna-ezike/).
 
-<p align="center"> 
-  Visitor count<br>
+<p align="left"> 
+  <b>Visitor count</b><br><br>
   <img src="https://profile-counter.glitch.me/Ezike/count.svg" />
 </p>
