@@ -8,7 +8,7 @@ I think my favorite thing to talk about is software architecture.
 
 Thanks for checking out my profile.
 
-Check me out on [Twitter](https://twitter.com/T0bey_) (Share your cat pictures with me 😺😺😺)
+You can check me out on [Twitter](https://twitter.com/T0bey_) too. (Share your cat pictures with me 😺😺😺)
 
 <p align="left"> 
   <b>Visitor count</b><br>
