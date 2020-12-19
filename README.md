@@ -2,7 +2,9 @@
 
 My name is Ezike Tobenna. I'm an Android Engineer at [Paystack](https://paystack.com)
 
-I enjoy developing for Android 🤖, and I think my favorite thing to talk about is software architecture. 
+I enjoy developing for Android 🤖
+
+I think my favorite thing to talk about is software architecture. 
 
 Thanks for checking out my profile.
 
