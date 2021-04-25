@@ -1,6 +1,6 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
-My name is Ezike Tobenna. I'm an Android Engineer at [Trivago](https://company.trivago.com)
+I'm an Android Engineer at [Trivago](https://company.trivago.com)
 
 I think my favorite thing to talk about is software architecture. 
 
