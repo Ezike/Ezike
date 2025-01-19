@@ -1,7 +1,5 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
-I'm an Android Engineer at Spotify
-
-I think my favorite thing to talk about is software architecture. 
+I'm a software Engineer who loves to talk about software architecture. 
 
 Thanks for checking out my profile. 
